@@ -9,11 +9,11 @@ I’m the founder of DREAMAR. I take ideas from a working prototype through impl
 
 ## Featured project · MonitorMac
 
-I wanted to check CPU and GPU temperatures and RAM usage on my Mac without interrupting what I was doing. I built a native app for Apple Silicon that puts readings in the menu bar and a compact floating panel, with a global keyboard shortcut and ten minutes of metric history.
+I wanted to check CPU and GPU temperatures and RAM usage on my Mac without interrupting what I was doing. I built a native app for Apple Silicon that puts readings in the menu bar and a compact floating panel, with a global keyboard shortcut and ten minutes of metric history. The standard build uses system thermal state and estimated RAM; the screenshot shows the experimental temperature build.
 
 [<img src="https://raw.githubusercontent.com/marlonstation/MonitorMac/main/docs/screenshots/metrics-history.png" alt="MonitorMac showing temperature and memory history" width="440">](https://github.com/marlonstation/MonitorMac)
 
-[Source code and install instructions](https://github.com/marlonstation/MonitorMac) · [Download the DMG](https://github.com/marlonstation/MonitorMac/raw/main/MonitorMac.dmg)
+[Source code and local build instructions](https://github.com/marlonstation/MonitorMac)
 
 ## What I build
 
